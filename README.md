@@ -10,7 +10,7 @@ RuboCop for git diff.
 
 Add this line to your application's Gemfile:
 
-    gem 'rubocop-git'
+    gem 'rubocop-git', github: 'ArnsboMedia/rubocop-git'
 
 And then execute:
 
